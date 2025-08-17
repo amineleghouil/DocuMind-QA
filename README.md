@@ -18,5 +18,5 @@ It combines **document parsing, vector search, and retrieval-augmented generatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/documind-qa.git
+   git clone https://github.com/amineleghouil/documind-qa.git
    cd documind-qa
